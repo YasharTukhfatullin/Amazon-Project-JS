@@ -25,6 +25,7 @@ export function addToCart(productId) {
   }
 };
 
+// Removing the product from the cart.
 export function removeFromCart(productId) {
   const newCart = [];
 
