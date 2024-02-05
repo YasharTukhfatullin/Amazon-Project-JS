@@ -1,3 +1,14 @@
+export function getProduct(productId) {
+  let matchingProduct;
+
+  products.forEach(function(product) {
+    if (product.id === productId) {
+      matchingProduct = product;
+    }
+  });
+  
+  return matchingProduct;
+};
 
 /* Saving the data */
 export const products = [
