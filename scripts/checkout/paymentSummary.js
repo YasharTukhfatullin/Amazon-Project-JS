@@ -1,7 +1,7 @@
 /* Main Idea of JavaScript
 1. Save the data (Model)
-2. Generate the html
-3. Make it interactive */
+2. Generate the html (View)
+3. Make it interactive (Controller) */
 
 import { cart } from "../../data/cart.js";
 import { getProduct } from "../../data/products.js";
