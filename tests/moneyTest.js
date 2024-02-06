@@ -4,6 +4,7 @@
 */
 
 import {formatCurrency} from "../tests/moneyTest";
+
 console.log("test suite: formatCurrency")
 
 
