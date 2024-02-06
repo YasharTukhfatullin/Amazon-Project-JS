@@ -1,4 +1,4 @@
-import {formatCurrency} from "../test/moneyTest.js";
+import {formatCurrency} from "../../test/moneyTest.js";
 
 describe('test suite: formatCurrency', function() {
   it('converts cents into dollars', function() {

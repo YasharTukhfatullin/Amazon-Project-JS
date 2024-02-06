@@ -3,7 +3,7 @@
 2. Edge cases = test with values that are tricky
 */
 
-import {formatCurrency} from "../tests/moneyTest";
+import {formatCurrency} from "../../tests/moneyTest";
 
 console.log("test suite: formatCurrency")
 
